@@ -1,0 +1,17 @@
+body {
+  text-rendering: optimizeSpeed;
+  font-family: $font;
+  font-size: 18px;
+  color: $dark;
+}
+
+.heading {
+}
+
+.paragraph { 
+}
+
+@media (max-width: $breakpoint-sm) 
+{
+}
+
